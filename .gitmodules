@@ -1,0 +1,3 @@
+[submodule "themes/believe"]
+	path = themes/believe
+	url = https://github.com/th720309/hexo-theme-believe.git
