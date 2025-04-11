@@ -8,8 +8,8 @@ subtitle: ''
 description: ''
 keywords: blog
 author: Wang, Wei Hsuan
-language: zh
-timezone: ''
+language: zh-tw
+timezone: 'UTC+8'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
